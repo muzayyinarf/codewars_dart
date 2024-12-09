@@ -6,7 +6,7 @@ Join [CodeWars](https://www.codewars.com/r/_PwOTQ) and follow [me](https://www.c
 
 ---
 
-## 4kyu Katas
+## 8kyu Katas
 
 <br>
 
