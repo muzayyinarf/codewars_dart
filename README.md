@@ -16,6 +16,7 @@ Join [CodeWars](https://www.codewars.com/r/_PwOTQ) and follow [me](https://www.c
 | [**String Repeat**](lib/8_kyu/string_repeat.md)  | 1 | `str`, `format` | [link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/dart) |
 | [**Remove String Spaces**](lib/8_kyu/remove_string_spaces.md)  | 2 | `str`, `format` | [link](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/dart) |
 | [**Simple multiplication**](lib/8_kyu/simple_multiplication.md)  | 2 | `int`, `format` | [link](https://www.codewars.com/kata/583710ccaa6717322c000105/train/dart) |
+| [**Sum Arrays**](lib/8_kyu/sum_arrays.md)  | 3 | `int`, `format`, `list` | [link](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/dart) |
 
 <br>
 
