@@ -18,6 +18,7 @@ Join [CodeWars](https://www.codewars.com/r/_PwOTQ) and follow [me](https://www.c
 | [**Simple multiplication**](lib/8_kyu/simple_multiplication.md)  | 2 | `int`, `format` | [link](https://www.codewars.com/kata/583710ccaa6717322c000105/train/dart) |
 | [**Sum Arrays**](lib/8_kyu/sum_arrays.md)  | 3 | `int`, `format`, `list` | [link](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/dart) |
 | [**Convert a Boolean to a String**](lib/8_kyu/convert_boolean_to_string.md)  | 2 | `bool`, `format`, `string` | [link](https://www.codewars.com/kata/551b4501ac0447318f0009cd/train/dart) |
+| [**Beginner - Reduce but Grow**](lib/8_kyu/beginner_reduce_but_grow.md)  | 2 | `bool`, `numbers`, `arithmetic`, `list`,  `array` | [link](https://www.codewars.com/kata/57f780909f7e8e3183000078/dart) |
 
 <br>
 
