@@ -21,8 +21,8 @@ Join [CodeWars](https://www.codewars.com/r/_PwOTQ) and follow [me](https://www.c
 | [**Beginner - Reduce but Grow**](lib/8_kyu/beginner_reduce_but_grow.md)  | 2 | `bool`, `numbers`, `arithmetic`, `list`,  `array` | [link](https://www.codewars.com/kata/57f780909f7e8e3183000078/dart) |
 | [**Grasshopper - Grade book**](lib/8_kyu/grasshoper_grade_book.md)  | 3 | `numbers` | [link](https://www.codewars.com/kata/55cbd4ba903825f7970000f5/train/dart) |
 | [**Century From Year**](lib/8_kyu/century_from_year.md)  | 2 | `numbers` | [link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/train/dart) |
+| [**Multiply**](lib/8_kyu/multiply.md)  | 2 | `int`,`numbers`, `arithmetic` | [link](https://www.codewars.com/kata/50654ddff44f800200000004/train/dart) |
 
-https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/train/dart
 <br>
 
 ---
