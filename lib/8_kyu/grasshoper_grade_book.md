@@ -23,7 +23,7 @@ Tested values are all between 0 and 100. Theres is no need to check for negative
 ### Solution 1
 ```dart
 String getGrade(int a, int b, int c) {
-  int average = ((a + b + c) / 3).round();
+  double average = (a + b + c) / 3;
 
   if (average >= 90) {
     return 'A';
@@ -41,36 +41,40 @@ String getGrade(int a, int b, int c) {
 
 ### Solution 2
 ```dart
-String getGrade(int s1, int s2, int s3) {
-  int average = ((s1 + s2 + s3) / 3).round();
-  return average >= 90 ? 'A'
-       : average >= 80 ? 'B'
-       : average >= 70 ? 'C'
-       : average >= 60 ? 'D'
-       : 'F';
-}
+ String getGrade(int s1, int s2, int s3) {
+   double average = (s1 + s2 + s3) / 3;
+   return average >= 90
+       ? 'A'
+       : average >= 80
+           ? 'B'
+           : average >= 70
+               ? 'C'
+               : average >= 60
+                   ? 'D'
+                   : 'F';
+ }
 
 ```
 
 ### Solution 3
 ```dart
-String getGrade(int s1, int s2, int s3) {
-  int average = ((s1 + s2 + s3) / 3).round();
+ String getGrade(int s1, int s2, int s3) {
+   double average = (s1 + s2 + s3) / 3;
 
-  switch (average ~/ 10) { // Membagi rata-rata dengan 10 untuk menentukan puluhan
-    case 10: // Nilai 100
-    case 9:  // Nilai 90-99
-      return 'A';
-    case 8:  // Nilai 80-89
-      return 'B';
-    case 7:  // Nilai 70-79
-      return 'C';
-    case 6:  // Nilai 60-69
-      return 'D';
-    default: // Nilai 0-59
-      return 'F';
-  }
-}
+   switch (average ~/ 10) {
+     case 10:  
+     case 9:  
+       return 'A';
+     case 8:  
+       return 'B';
+     case 7: 
+       return 'C';
+     case 6: 
+       return 'D';
+     default: 
+       return 'F';
+   }
+ }
 
 ```
 
